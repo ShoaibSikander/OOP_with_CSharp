@@ -1,0 +1,7 @@
+D:\C#_working\Working\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\C#_working\Working\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\C#_working\Working\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\C#_working\Working\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+D:\C#_working\Working\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\C#_working\Working\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\C#_working\Working\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

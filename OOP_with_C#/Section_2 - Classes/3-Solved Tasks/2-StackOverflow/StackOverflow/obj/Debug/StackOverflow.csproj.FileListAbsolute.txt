@@ -1,0 +1,7 @@
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe.config
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\bin\Debug\StackOverflow.pdb
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csproj.CoreCompileInputs.cache
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\obj\Debug\StackOverflow.exe
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\obj\Debug\StackOverflow.pdb
+D:\C#_working\Working\StackOverflow\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csprojAssemblyReference.cache
